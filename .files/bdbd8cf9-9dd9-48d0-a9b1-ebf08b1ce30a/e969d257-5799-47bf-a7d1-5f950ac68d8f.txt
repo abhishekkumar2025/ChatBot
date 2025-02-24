@@ -1,0 +1,29 @@
+CHAPTER 2 
+LITERATURE SURVEY  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Powered crypto price prediction &  blockchain wallet t ransaction  
+Dept. of ISE, BNMIT  2024-25 5 
+ CHAPTER 2 
+LITERATURE SURVEY  
+The literature survey for the “AI-Powered Crypto Price Prediction and Blockchain 
+Wallet Transactions" highlights the use of AI models, such as deep learning, for predicting 
+cryptocurrency prices with improved accuracy. Blockchain technology, particularly smart 
+contracts, has been widely  applied for securing transactions. However, there is limited research 
+combining AI -driven price prediction with blockchain for secure wallet transactions, indicating 
+a gap that this project aims to fill.  
+2.1 OVERVIEW  
+ The project "AI -Powered Crypto Price Prediction and Blockchain Wallet Transactions" 
+aims to develop a platform that integrates AI for accurate cryptocurrency price predictions and 
+blockchain technology for secure wallet transactions. By leveraging deep lea rning models like 
+transformers and CNNs, the system predicts future cryptocurrency prices based on historical 
+market data. It also incorporates real -time price updates through API calls. For secure

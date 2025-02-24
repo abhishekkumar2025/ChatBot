@@ -1,0 +1,13 @@
+transparency of Ethereum transactions by leveraging blockchain technology and smart 
+contracts.  MetaMask serves as a cryptocurrency wallet that allows users to interact with 
+the Ethereum blockchain, facilitati ng transactions and managing account keys.  The 
+application provides a user -friendly interface for sending transactions, with features like 
+gas estimation and transaction tracking through Etherscan.io. The ultimate goal is to 
+promote financial inclusivity, streamline business transactions, and contribute to the 
+advancement of decentralized Web3.0 technologies.  
+• The paper titled "  Open Data and APIs -data extraction and exploration using python " was 
+authored by Dr. Shamprasad M. Pujar ,Dr. Satish S. Munnolli , Dr. Rajendra Babu H  
+explores the role of open data and APIs in data extraction and exploration, highlighting 
+their importance in enhancing data accessibility, transparency, and research collaboration. 
+It emphasizes the growing momentum of the open data movement and the potent ial of APIs 
+as tools for retrieving, analyzing, and managing open datasets. Using Python, the study

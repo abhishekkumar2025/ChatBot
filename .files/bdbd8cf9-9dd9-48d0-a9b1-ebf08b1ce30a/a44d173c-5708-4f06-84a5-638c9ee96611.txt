@@ -1,0 +1,15 @@
+demonstrates how libraries can leverage APIs, such as the World Bank Global API, for 
+efficient data extraction and visualization. It advocates for libraries  to adopt technological 
+skills like coding to better manage open data, emphasizing their evolving role in a data -
+driven  world.  
+• The paper "Speech Characteristics of Patients with Parkinson's Disease —Does 
+Dopaminergic Medications Have a Role?" by Valiyaparambath Purushothaman Vandana, 
+Jeevendra Kumar Darshini, Venkappayah Holla Vikram, Kamble Nitish, Pramod Kumar 
+Pal, and Yadav Ravi  investigates the effects of dopaminergic medication on voice, speech, 
+and motor functions in Parkinson's patients. The study utilized statistical methods such as AI Powered crypto price prediction &  blockchain wallet t ransaction  
+Dept. of ISE, BNMIT  2024-25 5 
+ the Wilcoxon signed -rank test and Spearman's correlation to analyze relationships between 
+motor and speech parameters but did  not employ machine learning models. Acoustic 
+analysis was performed using the Multi -Dimensional Voice Program (MDVP).  
+2.3   APPROACH TO THE PROBLE M 
+To approach the cryptocurrency price prediction problem using a SAM -LSTM model with

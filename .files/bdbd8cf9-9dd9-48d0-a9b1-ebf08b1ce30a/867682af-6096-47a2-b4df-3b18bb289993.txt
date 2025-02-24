@@ -1,0 +1,14 @@
+transactions, the platform uses blockchain and smart contr acts to ensure transparency and 
+security in wallet -to-wallet transfers. The goal is to provide a reliable, user -friendly, and 
+efficient solution for cryptocurrency trading and transactions.  
+2.2   LITERATURE SURVEY  
+•  The paper "A Cryptocurrency Price Prediction Model using Deep Learning"  by Akila V, 
+Nitin M. V. S, Prasanth I, Sandeep Reddy M, and Akash Kumar G presents a machine 
+learning approach for cryptocurrency price prediction. The paper discusses two key 
+components: the effects of CPD (Cryptocurrency Price Data) and the attention me chanism, 
+which are incorporated into the proposed SAM -LSTM (Self -Attention Mechanism Long 
+Short -Term Memory) model. These components are first validated through their 
+application in predicting univariate Bitcoin (BTC) prices. After confirming the 
+effective ness of these techniques, the paper proceeds to evaluate the overall price prediction 
+performance of the SAM -LSTM model. The validation of these techniques demonstrates 
+the model's potential in improving the accuracy of cryptocurrency price predictions.
